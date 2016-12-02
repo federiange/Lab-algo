@@ -2,6 +2,8 @@ package capitolo6;
 import java.lang.*;
 import java.util.Scanner;
 
+//allora 
+
 public class Compara{
 
 	public static int sequentialSearch( Object[] a, Object key){
