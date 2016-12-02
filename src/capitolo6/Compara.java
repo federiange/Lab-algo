@@ -2,7 +2,7 @@ package capitolo6;
 import java.lang.*;
 import java.util.Scanner;
 
-//allora 
+//allora a
 
 public class Compara{
 
@@ -75,6 +75,8 @@ public class Compara{
 				System.out.println("No la parola \"" + str + "\" non è palindroma...Ritenta");
 		}
 		sc.close();
+		
+		System.out.println("ciao");
 		
 	}//metodo main
 
